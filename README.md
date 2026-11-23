@@ -1,12 +1,14 @@
+[![Byson Cyber — Modern Evolution](assets/byson-cyber-header.png)](https://bysoncyber.com)
+
 # Hey, I'm Blynn! 👋 🦬
 
-**Founder of Byson Cyber LLC | Cybersecurity Consultant | Coffee Enthusiast ☕**
+**Founder of [Byson Cyber](https://bysoncyber.com) | Cybersecurity Consultant | Coffee Enthusiast ☕**
 
 Welcome to my little corner of GitHub!
 
-I'm the founder of [Byson Cyber](https://bysoncyber.com), a cybersecurity consulting company focused on helping organizations navigate the ever-changing world of cybersecurity.
+I run **Byson Cyber**, a cybersecurity consultancy focused on helping organizations reduce real risk through practical, understandable security improvements.
 
-I believe cybersecurity shouldn't be unnecessarily complicated, intimidating, or inaccessible. Good security starts with understanding risks, making practical improvements, and helping people along the way.
+I believe cybersecurity shouldn't be unnecessarily complicated, intimidating, or inaccessible. Good security starts with understanding people, identifying what matters, and making thoughtful improvements along the way.
 
 And sometimes, that means fixing a printer. 😂
 
@@ -19,23 +21,27 @@ And sometimes, that means fixing a printer. 😂
 - **Security Automation** — PowerShell, scripting, and tools that make life a little easier.
 - **Education & Community** — Sharing knowledge and helping others grow in cybersecurity.
 
-## 🧰 What You'll Find Here
+## 🧰 Featured Community Project
 
-As I continue building out this GitHub, my goal is to share useful resources with the cybersecurity and IT communities, including:
+### [Byson Endpoint Maintenance — Community Beta](https://github.com/BysonCyber/community-endpoint-maintenance)
 
-- Free cybersecurity scripts and utilities
-- Security hardening guides and checklists
-- Educational resources and documentation
-- Lessons learned from real-world security challenges
-- Open-source projects and experiments
+A PowerShell toolkit I built to make routine Windows endpoint maintenance a little less painful. It brings together common update and maintenance tasks, including Windows, Microsoft Defender, application updates, and supported OEM driver checks.
 
-Not everything needs to be a paid engagement. Sometimes sharing a useful tool or helping someone solve a problem makes all the difference.
+**[View the project](https://github.com/BysonCyber/community-endpoint-maintenance)** · **[Browse releases](https://github.com/BysonCyber/community-endpoint-maintenance/releases)**
+
+> This is a community beta. Please review the documentation and test in an appropriate environment before deploying it broadly.
+
+## 🤝 Why I Share
+
+This GitHub is a place for practical scripts, security resources, experiments, and lessons learned along the way. I'll continue adding to it as useful things are ready to share.
+
+Not everything needs to be a paid engagement. Sometimes a free tool, a helpful explanation, or an extra set of eyes makes all the difference.
 
 ## ☕ A Little About Me
 
-I've spent my career working in cybersecurity and IT, from infrastructure and firewalls to security operations and consulting.
+I've spent my career working across cybersecurity and IT, from infrastructure and firewalls to security operations and consulting.
 
-Outside of cybersecurity, I enjoy coffee roasting, experimenting with espresso, mentoring others, and finding opportunities to give back to the community.
+Outside of that, I'm usually roasting coffee, experimenting with espresso, mentoring others, or looking for opportunities to give back to the community.
 
 Technology is important, but the people behind it matter more.
 
@@ -43,9 +49,9 @@ Technology is important, but the people behind it matter more.
 
 - 🌎 **Website:** [BysonCyber.com](https://bysoncyber.com)
 - 💼 **LinkedIn:** [Blynn Atchley](https://www.linkedin.com/in/blynn-atchley/)
-- 🏢 **Company:** [Byson Cyber](https://www.linkedin.com/company/bysoncyber/)
+- 🦬 **Company:** [Byson Cyber on LinkedIn](https://www.linkedin.com/company/bysoncyber/)
 - ☕ **My Coffee Obsession:** [Coffee & Computers](https://coffeecomputers.net) — Where technology meets a really good cup of coffee!
-- 📧 **Email:** github@bysoncyber.com
+- 📧 **Email:** [github@bysoncyber.com](mailto:github@bysoncyber.com)
 
 ---
 
